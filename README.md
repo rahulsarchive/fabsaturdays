@@ -1,2 +1,2 @@
 # fabsaturdays
-Resource for Fab Saturday workshops
+This page contains all the resources required while attending FabSaturday workshops.
