@@ -18,8 +18,9 @@ Version control systems are a category of software tools that help a software te
 
 ## Setting up Git
 
-1. **Download** Git from [https://git-scm.com/downloads](https://git-scm.com/downloads)
-2. **Install** following the instructions.
-3. **Clone your repo** run git bash in your directory and type **git clone** _link to repo_
-4. **Edit files** locally and commit changes.
-5. **Push** repo to remote repository.
+1. **Create** your Profile in Github.com
+2. **Download** Git from [https://git-scm.com/downloads](https://git-scm.com/downloads)
+3. **Install** following the instructions.
+4. **Clone your repo** run git bash in your directory and type **git clone** _link to repo_
+5. **Edit files** locally and commit changes.
+6. **Push** repo to remote repository.
